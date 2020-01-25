@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GiftCardWallet</string>
+    <string name="auth">authentic with finger</string>
+    <string name="title_activity_gift_card_screen">GiftCardScreen</string>
+    <string name="newGiftCardButton">add new gift card</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
